@@ -368,17 +368,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Anti-AI Slop UI/UX steering skills for Kiro — filter, palette, and research tool to build intentional, branded, accessible interfaces.
 
-### Topics
-
-`kiro` `ui-design` `ux-design` `anti-slop` `tailwindcss` `ai-skills` `accessibility` `design-systems` `components` `steering`
-
----
-
-**Built with:**
-- [Kiro](https://kiro.dev/) — AI-powered IDE with steering skills
-- [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — Design intelligence engine
-- [Python](https://www.python.org/) — Search engine runtime
-
 **Stats:**
 - 3 steering skills
 - 44 reference files
