@@ -1,4 +1,4 @@
-# Anti-AI-UI
+# Anti-AI-UI/UX
 
 ![Kiro](https://img.shields.io/badge/Kiro-Steering-6366f1?style=for-the-badge&logo=google-gemini)
 ![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge)
@@ -18,7 +18,7 @@ LLMs generate UI by averaging across training data dominated by Tailwind docs, s
 
 ## The Solution
 
-**Anti-AI-UI** provides three complementary steering skills that work together:
+**Anti-AI-UI/UX** provides three complementary steering skills that work together:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
