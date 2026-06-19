@@ -349,8 +349,6 @@ gh pr create
 
 - **[UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** by [NextLevelBuilder](https://github.com/nextlevelbuilder) — The `ui-ux-pro-max/` directory contains their design intelligence system (161 reasoning rules, 67 UI styles, 57 font pairings, search engine). We use it as-is with their permission. Consider [supporting their project](https://paypal.me/uiuxpromax) if you find it valuable.
 
-- **Anti-AI-Slop & Component Reference Design** — Originally created for the [JagaSekolah](https://github.com/Vanszs/JagaSekolah) project by [b4r7x](https://github.com/Vanszs).
-
 **Inspired by:**
 - [MUI](https://mui.com/), [shadcn/ui](https://ui.shadcn.com/), [Radix](https://www.radix-ui.com/), [Headless UI](https://headlessui.com/)
 - [Material Design 3](https://m3.material.io/), [Apple HIG](https://developer.apple.com/design/human-interface-guidelines), [IBM Carbon](https://carbondesignsystem.com/)
