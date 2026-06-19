@@ -665,3 +665,16 @@ dialog[open] { opacity:1; scale:1; transition: opacity 250ms, scale 250ms, displ
 
 ## PART 2 SOURCES
 Linear, Vercel (+ Geist DS / rauno.me), Stripe, Raycast, Clerk, Resend, Framer, Apple, Nike, NYT, Mintlify, Nextra · Evil Martians "100 dev-tool landing pages" (2025) · Josh Comeau (full-bleed, subgrid, scroll-driven) · Ryan Mulligan (layout breakouts, marquee) · web.dev / MDN / WebKit / chrome.dev (subgrid, container queries, scroll-driven, view transitions, anchor positioning, `@starting-style`) · SaaSFrame (bento, 2026 trends) · NNG · Refactoring UI · Tailwind v4 docs · utopia.fyi (fluid clamp).
+
+---
+
+## Creative Freedom
+
+These patterns and rules are **bare minimum guidelines**. You are encouraged to:
+
+- **Improvise beyond what's documented** — use your own creativity and judgment
+- **Experiment with novel solutions** — don't feel constrained to only what's listed here
+- **Adapt to context** — every project has unique requirements that may warrant different approaches
+- **Invent new patterns** — if you discover a better solution, use it
+
+Treat this reference as a **foundation, not a ceiling**. The goal is to avoid AI slop while still producing innovative, intentional design — not to limit you to a fixed set of "approved" solutions.

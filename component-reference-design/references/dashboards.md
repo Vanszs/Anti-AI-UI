@@ -542,3 +542,16 @@ Teal `#005D4C` ONLY at: primary buttons · active nav · focus rings · chart pr
 
 ## SOURCES (selected)
 Linear — "A calmer interface for a product in motion" (Mar 2026) + UI redesign part II · Vercel Geist Materials + Web Interface Guidelines · PostHog "What if PostHog looked like a dev tool?" · Stripe Apps design patterns · Tremor (tremor.so) · shadcn/ui dashboard + data-table · Untitled UI dashboards · Notion / Retool / Mixpanel teardowns · TanStack Table v8 · MUI DataGrid · IBM Carbon (tokens, empty states, side-nav) · React Aria (DateRangePicker, ComboBox multi-select, Tabs) · Headless UI · W3C WAI-ARIA APG (breadcrumb, menu, dialog, tabs, radio, combobox) · NNG (skeleton screens, empty states, error guidelines) · SetProduct (dashboard anatomy) · Baymard (filter toolbars) · Pencil & Paper (filter UX) · Refactoring UI · Next.js 15 (streaming/Suspense) · MDN aria-sort · Stanford a11y (sticky header) · WebAIM contrast · WCAG 1.4.1/2.3.3/4.1.2/4.1.3.
+
+---
+
+## Creative Freedom
+
+These patterns and rules are **bare minimum guidelines**. You are encouraged to:
+
+- **Improvise beyond what's documented** — use your own creativity and judgment
+- **Experiment with novel solutions** — don't feel constrained to only what's listed here
+- **Adapt to context** — every project has unique requirements that may warrant different approaches
+- **Invent new patterns** — if you discover a better solution, use it
+
+Treat this reference as a **foundation, not a ceiling**. The goal is to avoid AI slop while still producing innovative, intentional design — not to limit you to a fixed set of "approved" solutions.

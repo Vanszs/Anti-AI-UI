@@ -183,3 +183,16 @@ No interactive content inside tooltips — use a Popover for that.
 - Every animation must answer "what user task does this support?" — else remove it.
 
 Sources: Radix UI, Headless UI, shadcn/ui, MUI, Ant Design, Material Design 3, motion.dev, Emil Kowalski (Sonner/Vaul/animations.dev), Josh Comeau, NNG, web.dev, Adrian Roselli (skeletons), W3C WCAG 2.2.2/2.3.3 + WAI-ARIA APG.
+
+---
+
+## Creative Freedom
+
+These patterns and rules are **bare minimum guidelines**. You are encouraged to:
+
+- **Improvise beyond what's documented** — use your own creativity and judgment
+- **Experiment with novel solutions** — don't feel constrained to only what's listed here
+- **Adapt to context** — every project has unique requirements that may warrant different approaches
+- **Invent new patterns** — if you discover a better solution, use it
+
+Treat this reference as a **foundation, not a ceiling**. The goal is to avoid AI slop while still producing innovative, intentional design — not to limit you to a fixed set of "approved" solutions.

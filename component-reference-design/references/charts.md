@@ -385,3 +385,16 @@ ColorBrewer (colorbrewer2.org) · Okabe-Ito (siegal.bio.nyu.edu/color-palette) �
 Linear design refresh · Stripe dashboard components · Cole Nussbaumer SWD (gridlines) · Tufte / chartjunk ·
 NNG clutter-free charts · Emil Kowalski (emilkowal.ski/ui/great-animations) · animations.dev · Josh Comeau (reduced-motion) ·
 evilmartians OKLCH picker · WCAG 1.1.1/1.4.1/1.4.11/2.3.3 · W3C SVG ARIA roles.
+
+---
+
+## Creative Freedom
+
+These patterns and rules are **bare minimum guidelines**. You are encouraged to:
+
+- **Improvise beyond what's documented** — use your own creativity and judgment
+- **Experiment with novel solutions** — don't feel constrained to only what's listed here
+- **Adapt to context** — every project has unique requirements that may warrant different approaches
+- **Invent new patterns** — if you discover a better solution, use it
+
+Treat this reference as a **foundation, not a ceiling**. The goal is to avoid AI slop while still producing innovative, intentional design — not to limit you to a fixed set of "approved" solutions.

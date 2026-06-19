@@ -160,3 +160,16 @@ body1 16/1.5 · body2 14/1.43 · button 14 w500 UPPERCASE · caption 12 · overl
 6. MD3's 5-role × 3-size = 15 tokens is the most economical semantic naming to copy.
 
 Sources: Refactoring UI, m3.material.io, Apple HIG, carbondesignsystem.com, mui.com, utopia.fyi, Typewolf, Fontshare, Smashing ("Modern Fluid Typography"), Adrian Roselli (zoom a11y).
+
+---
+
+## Creative Freedom
+
+These patterns and rules are **bare minimum guidelines**. You are encouraged to:
+
+- **Improvise beyond what's documented** — use your own creativity and judgment
+- **Experiment with novel solutions** — don't feel constrained to only what's listed here
+- **Adapt to context** — every project has unique requirements that may warrant different approaches
+- **Invent new patterns** — if you discover a better solution, use it
+
+Treat this reference as a **foundation, not a ceiling**. The goal is to avoid AI slop while still producing innovative, intentional design — not to limit you to a fixed set of "approved" solutions.

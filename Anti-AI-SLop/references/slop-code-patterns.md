@@ -404,3 +404,16 @@ If 4+ of these appear together → the codebase is vibe-coded without human revi
 - **UGA DASH** — Accessibility Techniques: Visible Focus, Tab Order, ARIA, Popups
 - **Polypane** — "The WebAIM Million 2025: Solving the most common issues"
 - **Smashing Magazine** — "Building Self-Correcting Color Systems" (contrast stats, 2026)
+
+---
+
+## Creative Freedom
+
+These patterns and rules are **bare minimum guidelines**. You are encouraged to:
+
+- **Improvise beyond what's documented** — use your own creativity and judgment
+- **Experiment with novel solutions** — don't feel constrained to only what's listed here
+- **Adapt to context** — every project has unique requirements that may warrant different approaches
+- **Invent new patterns** — if you discover a better solution, use it
+
+Treat this reference as a **foundation, not a ceiling**. The goal is to avoid AI slop while still producing innovative, intentional design — not to limit you to a fixed set of "approved" solutions.
